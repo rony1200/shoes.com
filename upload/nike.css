@@ -1,0 +1,123 @@
+body{
+    background-color:#267B87;
+    text-align:center;
+    border:5px solid white;
+    color:white;  
+    background-image: url(https://cdn-icons-png.flaticon.com/512/732/732084.png);
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+a{
+    color:white;
+}
+.frame{
+    background-color:linear-gradient(129.86deg, #21E8C4 -20.42%, #179B93 -3.13%, #267B87 24.22%, #0F474F 72.75%);
+    width: 1203px;
+    height: 792px;
+    position:relative;
+    
+}
+.heading1{
+    padding:20px;
+    margin:2px;
+    border:0.5px solid white;
+    box-shadow: 10px 10px 5px black;
+}
+.header{
+    text-align:left;
+    padding-left:190px;
+    padding-top:20px;
+}
+.navigation{
+    text-align:right;
+    padding-right:400px;
+    word-spacing:2em;
+    font-size:20px;
+    font-family:'Poppins',sans-serif;
+}
+.searchfilter{
+    border-radius:20px;
+    background-color:white;
+    color:black;
+    padding:10px;
+    padding-right:20px;
+    padding-right:20px;
+}
+.imagechange{
+    top:40px;
+    bottom:40px;
+    right:80px;
+    left:40px;
+}
+.carticon{
+    padding:50px;
+}
+h1,p{
+    font-family:'Poppins',sans-serif;
+    padding-left:200px;
+    text-align:left;
+}
+h1{
+    text-transform: uppercase;
+    font-size:36px;
+}
+p{
+    font-size:20px;
+    padding-top:20px;
+}
+button{
+    background: linear-gradient(106.81deg, #179B93 43.2%, rgba(217, 217, 217, 0.71) 61.6%);
+    border-radius: 40px;
+    padding:20px;
+    padding-right:30px;
+    padding-left:30px;
+    font-size:20px;
+}
+.shoepic{
+    padding-left:550px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    padding-top:5px;
+    padding-bottom:20px;
+}
+.shoe1{
+    padding-right:80px;
+    text-align:right;
+    padding-top:50px;
+}
+.shoe2{
+    padding-left:890px;
+    top:880px;
+    bottom:700px;
+    text-align:left;
+}
+.shoepic2{
+    padding-left:470px;
+    padding-bottom:30px;
+}
+.shoe3{
+    padding-left:590px;
+    text-align:left;
+    padding-top:20px;
+    border:2px 
+}
+.shoepic3{
+    padding-left:400px;
+    padding-bottom:30px;
+}
+.heading4{
+    text-align:right;
+    padding-right:20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    text-shadow: 10px 10px 5px black;
+}
+.shoe1,.shoe2,.shoe3{
+    border:1px solid;
+    padding:10px;
+    background-color:yellow;
+    box-shadow: 10px 10px 5px white;
+}
+.shop{
+    color:yellow;
+}
